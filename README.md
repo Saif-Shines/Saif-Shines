@@ -10,5 +10,5 @@ i work as a Developer Advocate for Freshworks Developer Platform. Every now and 
 i [archived my thoughts of past](https://saifshines.medium.com/). Now-a-days [saying HEY world every now and then](https://world.hey.com/saif.shines). 
 
 [LinkedIn](https://www.linkedin.com/in/saif-shines/).
-[Twitter](https://twitter.com/Saif_Shines)
-email: saif.shines@hey.com
+| [Twitter](https://twitter.com/Saif_Shines)
+| saif.shines@hey.com
